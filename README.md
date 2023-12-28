@@ -1,0 +1,1 @@
+This is the package for finance professional to analyze the Financial Statement and visualize the result
